@@ -1,0 +1,22 @@
+/* Styles for the header */
+.header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  /* Styles for the footer */
+  .footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  /* Centered content div */
+  .centered-content {
+    justify-content: space-between;
+    min-height: calc(100vh - 2 * 50px); /* Subtract header and footer padding */
+  }
+  
